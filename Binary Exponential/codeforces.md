@@ -1,5 +1,5 @@
 # A - Not So Tought
-[Problme:](https://codeforces.com/gym/378788/problem/A)\
+[Problem:](https://codeforces.com/gym/378788/problem/A)\
 [Solution:](https://codeforces.com/gym/378788/submission/156883282)
 
 
